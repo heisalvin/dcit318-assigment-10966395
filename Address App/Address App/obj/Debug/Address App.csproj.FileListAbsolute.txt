@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\bin\Debug\Address App.exe.config
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\bin\Debug\Address App.exe
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\bin\Debug\Address App.pdb
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address_App.Form1.resources
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address_App.Properties.Resources.resources
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address App.exe
+C:\Users\user\source\repos\heisalvin\dcit318-assigment4-10966395\Address App\Address App\obj\Debug\Address App.pdb
